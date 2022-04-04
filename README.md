@@ -8,7 +8,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - https://github.com/Calanis77/Cybersecurity/tree/main/Ansible#:~:text=filebeat%2Dplaybook.yml
   - https://github.com/Calanis77/Cybersecurity/tree/main/Ansible#:~:text=metricbeat%2Dplaybook.yml
-  - 
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
